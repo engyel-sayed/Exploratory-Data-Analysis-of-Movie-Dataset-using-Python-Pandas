@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-Movie-Dataset-using-Python-Pandas
+Performed exploratory data analysis using Python and the Pandas library to transform a raw movie dataset into structured insight.The project included datacleaning, handling missing values and preprocessing to ensure data quality before analysis.A simple CLI interface was developed to enable dynamic filtering and quick retrieval of analysis results.
