@@ -37,6 +37,3 @@ Run the Python file to trigger the EDA pipeline and open the interactive CLI
 Enter a number from 1 to 10 when prompted to display specific analysis results
 
 ---
-│   └── movies.csv                                      # Raw movie dataset
-├── Exploratory-Data-Analysis-of-Movie-Dataset.py       # Main Python script (Cleaning, Analysis & CLI)
-└── README.md                                           # Project documentation
